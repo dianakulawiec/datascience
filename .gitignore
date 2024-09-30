@@ -2,6 +2,12 @@
 test/*
 */test/*
 
+Synthea/*
+*/Synthea/*
+
+Capstone/*
+*/Capstone/*
+
 # Temporary notebook data
 .ipynb_checkpoints/*
 */.ipynb_checkpoints/*
